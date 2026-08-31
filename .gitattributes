@@ -1,0 +1,10 @@
+# 이 저장소의 텍스트는 LF 로 통일한다. (배포 패키지가 LF 로 나가고 있다)
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.dll binary
+*.lib binary
+*.back binary

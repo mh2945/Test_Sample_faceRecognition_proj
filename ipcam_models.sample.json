@@ -1,0 +1,26 @@
+[
+  {
+    "name": "335N_CAM",
+    "mjpeg_port": "80",
+    "rtsp_port": "554",
+    "mjpeg_url": "ws://{ip}{port}/ws",
+    "rtsp_url": "rtsp://{ip}{port}/live/main",
+    "keep_user_input": false
+  },
+  {
+    "name": "HIKVISION",
+    "mjpeg_port": "80",
+    "rtsp_port": "554",
+    "mjpeg_url": "",
+    "rtsp_url": "",
+    "keep_user_input": false
+  },
+  {
+    "name": "CUSTOM",
+    "mjpeg_port": "",
+    "rtsp_port": "",
+    "mjpeg_url": "",
+    "rtsp_url": "",
+    "keep_user_input": true
+  }
+]
